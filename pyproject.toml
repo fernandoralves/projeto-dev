@@ -1,0 +1,9 @@
+[project]
+name = "projeto-agenda"
+version = "0.1.0"
+description = "Projeto de estudo da trilha de desenvolvimento backend"
+requires-python = ">=3.14"
+
+# A partir da Fase 3, adicione aqui as dependências conforme forem
+# entrando: pytest, pytest-cov na Fase 3; fastapi, pydantic na Fase 4;
+# sqlalchemy, alembic, psycopg2 na Fase 5.
